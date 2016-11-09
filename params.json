@@ -1,6 +1,6 @@
 {
   "name": "Sql Injection",
   "tagline": "SQL Injection challenge chain",
-  "body": "### SQL Injection\r\n* SQL-Injection is one of the top attacks for web applications.\r\n* In this lab, students can get experience on exploiting SQL-Injection vulnerability.\r\n* In a series of stepwise challenges, student will learn different SQL-Injection techniques. Useful skills for web analysis are also helpful.\r\n* Try find out the vulnerabilities in the challenge website and make your evil inputs.",
+  "body": "### SQL Injection\r\n* SQL-Injection is one of the top attacks for web applications.\r\n* In this lab, students can get experience on exploiting SQL-Injection vulnerability.\r\n* In a series of stepwise challenges, student will learn different SQL-Injection techniques. Useful skills for web analysis are also helpful.\r\n* Try find out the vulnerabilities in the challenge website and make your evil inputs.\r\n\r\n\r\n***\r\n* To use this challenge sequence, please make sure you have set up the server [framework](https://github.com/nsslab-yin/SRCTF), then follow the instructions to import the challenge contents.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
