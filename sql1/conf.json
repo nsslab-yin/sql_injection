@@ -1,0 +1,7 @@
+{
+"flag_dir":"/ctfs/www/sql1/config.php",
+"flag_pre":"<?php $FLAG = \"FLAG_DEBUG_SQL_INJECTION_",
+"flag_post":"\"; ?>",
+"execs":[
+]
+}

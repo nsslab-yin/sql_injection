@@ -1,0 +1,7 @@
+{
+"flag_dir":"/ctfs/www/sql3/config.php",
+"flag_pre":"<?php $FLAG = \"FLAG_LOGIN_IF_U_C@N_",
+"flag_post":"\"; ?>",
+"execs":[
+]
+}
